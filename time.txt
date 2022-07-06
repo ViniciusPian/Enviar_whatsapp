@@ -1,0 +1,22 @@
+
+hora inicio: 589488.921631
+hora fim: 590064.9654791
+tempo de execução: 576.04 seg, Mensagens enviadas:24 1 
+hora inicio: 648893.2214155
+hora fim: 648995.3107478
+tempo de execução: 102.09 seg, Mensagens enviadas:3 3 
+hora inicio: 661857.8508277
+hora fim: 661903.7468417
+tempo de execução: 45.90 seg, Mensagens enviadas:0 0 
+hora inicio: 663032.7488905
+hora fim: 663298.4058943
+tempo de execução: 265.66 seg, Mensagens enviadas:10 10 
+hora inicio: 674503.2642538
+hora fim: 675763.5426653
+tempo de execução: 1260.28 seg, Mensagens enviadas:56 1 
+hora inicio: 919018.9591467
+hora fim: 919756.9224006
+tempo de execução: 737.96 seg, Mensagens enviadas:31 1 
+hora inicio: 932463.8572175
+hora fim: 933278.3790137
+tempo de execução: 814.52 seg, Mensagens enviadas:33 0 
